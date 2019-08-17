@@ -1,0 +1,18 @@
+{
+  "name": "abdlogger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "bin": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Abderrazak ELKHADIRI",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "mqtt": "^3.0.0",
+    "serialport": "^7.1.5",
+    "socket.io-client": "^2.2.0"
+  }
+}

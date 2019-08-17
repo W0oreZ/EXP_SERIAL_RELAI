@@ -1,0 +1,19 @@
+{
+  "Server":{
+    "ip":"41.140.242.182",
+    "port":"1338"
+  },
+  "Auth":{
+    "username":"",
+    "password":"",
+    "clientName":""
+  },
+  "Interface":{
+    "subTopic":"",
+    "pubTopic":""
+  },
+  "Port":{
+    "baudrate":9600,
+    "manufacturers":["FTDI","Arduino"]
+  }
+}
